@@ -2,7 +2,7 @@
 
 This is my final submission for the **#CreativeCoding2024** activity at City, University of London.
 
-### The Activity 💡:
+### The Activity 💡
 
 **#CreativeCoding** involved:
 

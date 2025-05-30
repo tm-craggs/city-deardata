@@ -1,6 +1,6 @@
 # #CreativeCoding2024
 
-This is my final submission for the **#CreativeCoding2024** activity at City, University of London.
+This is my final submission for the **#CreativeCoding2024** activity at **City St George's, University of London**.
 
 ### The Activity 💡
 

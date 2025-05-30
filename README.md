@@ -1,8 +1,10 @@
 # #CreativeCoding2024
 
-This is my final submission for #CreativeCoding 2024 at City, University of London.
+This is my final submission for the **#CreativeCoding2024** activity at City, University of London.
 
-**#CreativeCoding** involves:
+### The Activity 💡:
+
+This acticvity involved:
 
 📊 Data collection, design experiments and reflection
 

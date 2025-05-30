@@ -3,10 +3,15 @@
 This is my final submission for #CreativeCoding 2024 at City, University of London.
 
 #CreativeCoding involves:
+
 📊 Data collection, design experiments and reflection
+
 💬 Engagement and discussion with fellow students and academic mentors
+
 🖌️ Considering the world through a lens in which data is a creative starting point for play and expression
+
 🔗 Exploring the relationships between the world, data, code and themselves
+
 ⏳ Over a 12 week period. 
 
 ### Project Brief 📌

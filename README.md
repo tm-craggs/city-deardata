@@ -2,7 +2,7 @@
 
 This is my final submission for #CreativeCoding 2024 at City, University of London.
 
-#CreativeCoding involves:
+**#CreativeCoding** involves:
 
 📊 Data collection, design experiments and reflection
 
@@ -29,6 +29,6 @@ The sketch features a moving dot that dynamically traces my path as the user int
 
 ### Recognition 🏅
 
-Awarded the #CreativeCoding2024 badge for full participation and going the extra mile in a voluntary, challenging learning activity: 
+Awarded the **#CreativeCoding2024** badge for full participation and going the extra mile in a voluntary, challenging learning activity: 
 
 [View my badge!](https://openbadgefactory.com/v1/assertion/78649cf637f8e3655a5191840ffff9cc44b36273.html)

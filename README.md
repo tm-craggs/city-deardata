@@ -4,7 +4,7 @@ This is my final submission for the **#CreativeCoding2024** activity at City, Un
 
 ### The Activity 💡:
 
-This acticvity involved:
+**#CreativeCoding** involved:
 
 📊 Data collection, design experiments and reflection
 
